@@ -1,0 +1,6 @@
+{
+    "name":"testAddon",
+    "version":"1.0.0",
+    "orgin":"src",
+    "main":"main.py"
+}
